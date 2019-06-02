@@ -1,1 +1,2 @@
 MyRepository
+https://github.com/Shvmvrshny/MyRepository.git
